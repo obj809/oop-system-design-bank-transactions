@@ -1,0 +1,14 @@
+/Users/softdev/Desktop/oop-system-design-bank-transactions/bin/Debug/net10.0/oop_system_design_bank_transactions
+/Users/softdev/Desktop/oop-system-design-bank-transactions/bin/Debug/net10.0/oop_system_design_bank_transactions.deps.json
+/Users/softdev/Desktop/oop-system-design-bank-transactions/bin/Debug/net10.0/oop_system_design_bank_transactions.runtimeconfig.json
+/Users/softdev/Desktop/oop-system-design-bank-transactions/bin/Debug/net10.0/oop_system_design_bank_transactions.dll
+/Users/softdev/Desktop/oop-system-design-bank-transactions/bin/Debug/net10.0/oop_system_design_bank_transactions.pdb
+/Users/softdev/Desktop/oop-system-design-bank-transactions/obj/Debug/net10.0/oop_system_design_bank_transactions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/softdev/Desktop/oop-system-design-bank-transactions/obj/Debug/net10.0/oop_system_design_bank_transactions.AssemblyInfoInputs.cache
+/Users/softdev/Desktop/oop-system-design-bank-transactions/obj/Debug/net10.0/oop_system_design_bank_transactions.AssemblyInfo.cs
+/Users/softdev/Desktop/oop-system-design-bank-transactions/obj/Debug/net10.0/oop_system_design_bank_transactions.csproj.CoreCompileInputs.cache
+/Users/softdev/Desktop/oop-system-design-bank-transactions/obj/Debug/net10.0/oop_system_design_bank_transactions.dll
+/Users/softdev/Desktop/oop-system-design-bank-transactions/obj/Debug/net10.0/refint/oop_system_design_bank_transactions.dll
+/Users/softdev/Desktop/oop-system-design-bank-transactions/obj/Debug/net10.0/oop_system_design_bank_transactions.pdb
+/Users/softdev/Desktop/oop-system-design-bank-transactions/obj/Debug/net10.0/oop_system_design_bank_transactions.genruntimeconfig.cache
+/Users/softdev/Desktop/oop-system-design-bank-transactions/obj/Debug/net10.0/ref/oop_system_design_bank_transactions.dll
